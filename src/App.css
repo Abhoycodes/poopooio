@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+body{
+@apply bg-gray-800;
+}
+textarea{
+@apply resize-none;
+}
